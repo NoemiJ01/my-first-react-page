@@ -1,6 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -19,6 +19,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1> About Noemi </h1>
+      <p> I am 16 years old. </p>
+      <p> My birthday is on December 18th. </p>
+      <p> I like to dance and sing. </p>
+      <p> I attend DPCHS and I am a senior. </p>
     </div>
   );
 }
